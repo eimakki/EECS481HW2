@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Slide Puzzle</string>
+    <string name="action_settings">Settings</string>
+    <string name="slide_welcome">Welcome to the Slide Puzzle!</string>
+    <string name="instructions">The objective of the game is to rearrange
+        the numbers so that they are in order by sliding the tiles.\n\nTo start,
+        click on the start button below.</string>
+    <string name="button_start">Start</string>
+    <string name="title_activity_play_game">Play Slider Game</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
