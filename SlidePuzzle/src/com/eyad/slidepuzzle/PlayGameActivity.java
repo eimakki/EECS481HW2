@@ -89,7 +89,6 @@ public class PlayGameActivity extends Activity {
 		// Possible shuffle could produce number in order
 		// To fix, we re-shuffle until out of order
 		do {
-			System.out.println("shuffling");
 			Collections.shuffle(Arrays.asList(sliderContent));
 			fixEmptySpot();
 		} while (isInCorrectOrder());
